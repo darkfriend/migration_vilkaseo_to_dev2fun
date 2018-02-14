@@ -102,7 +102,7 @@ function darkEach($oElements, $hlIblockID) {
 			'UF_TITLE' => $title,
 			'UF_PATH' => $path,
 			'UF_DOMAIN' => $domain,
-			'UF_DESCRIPTION' => $description,
+			'UF_TEXT' => $description,
 			'UF_KEYWORDS' => $keywords,
 		]);
 		if(!$res) {
